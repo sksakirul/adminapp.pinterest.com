@@ -1,0 +1,2 @@
+# adminapp.pinterest.com
+adminapp
